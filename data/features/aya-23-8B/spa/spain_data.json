@@ -1,0 +1,5432 @@
+{
+  "xtwiggy": [
+    {
+      "id": "ocf8v",
+      "convo_id": "ocf8v",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Genre",
+          "value": "Song lyrics"
+        },
+        {
+          "key": "Tone",
+          "value": "Romantic"
+        },
+        {
+          "key": "Emotional",
+          "value": "Longing"
+        },
+        {
+          "key": "Metaphor",
+          "value": "Moon, Bed"
+        },
+        {
+          "key": "Image",
+          "value": "City, Avenue, Radio"
+        },
+        {
+          "key": "Theme",
+          "value": "Love, Desire"
+        },
+        {
+          "key": "Style",
+          "value": "Poetic"
+        },
+        {
+          "key": "Rhythm",
+          "value": "Slowing"
+        },
+        {
+          "key": "Length",
+          "value": "Medium"
+        }
+      ]
+    }
+  ],
+  "[deleted]": [
+    {
+      "id": "oeda2",
+      "convo_id": "oeda2",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Sevilla, Spain"
+        },
+        {
+          "key": "Time",
+          "value": "9 AM"
+        },
+        {
+          "key": "Destination",
+          "value": "Morón de la Frontera"
+        },
+        {
+          "key": "Transportation",
+          "value": "Bus"
+        },
+        {
+          "key": "Request",
+          "value": "Cost and route information"
+        },
+        {
+          "key": "Medium",
+          "value": "English"
+        },
+        {
+          "key": "Original Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Context",
+          "value": "Travel inquiry"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        }
+      ]
+    },
+    {
+      "id": "1exgxi",
+      "convo_id": "1exgxi",
+      "features": [
+        {
+          "key": "Swearing",
+          "value": "Profanity"
+        },
+        {
+          "key": "Intense",
+          "value": "Vile"
+        },
+        {
+          "key": "Verbal",
+          "value": "Verbal aggression"
+        },
+        {
+          "key": "Sexual",
+          "value": "Sexual insult"
+        },
+        {
+          "key": "Religious",
+          "value": "Religious curse"
+        },
+        {
+          "key": "Mother",
+          "value": "Insulting family member"
+        },
+        {
+          "key": "Death",
+          "value": "Threatening"
+        },
+        {
+          "key": "God",
+          "value": "Insulting"
+        },
+        {
+          "key": "Puta",
+          "value": "Insulting term"
+        },
+        {
+          "key": "Mother",
+          "value": "Insulting family member"
+        },
+        {
+          "key": "Anger",
+          "value": "Emotion expressed"
+        }
+      ]
+    },
+    {
+      "id": "2kpwoe",
+      "convo_id": "2kpwoe",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Catalan"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Region",
+          "value": "Catalonia, Spain"
+        },
+        {
+          "key": "Question",
+          "value": "Yes"
+        },
+        {
+          "key": "Topic",
+          "value": "History"
+        },
+        {
+          "key": "Name",
+          "value": "Oleguer Pujol i Drago"
+        },
+        {
+          "key": "Description",
+          "value": "A Catalan noble and politician, Oleguer Pujol i Drago was born in Barcelona in 1950. He studied law and economics and became a prominent figure in Catalan politics and business. He was involved in several controversies, including tax evasion and money laundering, which led to his resignation from political office."
+        }
+      ]
+    },
+    {
+      "id": "132ojw",
+      "convo_id": "132ojw",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Mexican Spanish"
+        },
+        {
+          "key": "Holiday",
+          "value": "Día de Muertos"
+        },
+        {
+          "key": "Belief",
+          "value": "Dead visit families"
+        },
+        {
+          "key": "Tradition",
+          "value": "Festive food & drinks"
+        },
+        {
+          "key": "Character",
+          "value": "Colorful characters"
+        },
+        {
+          "key": "Response",
+          "value": "Not Halloween"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Mexico"
+        },
+        {
+          "key": "Date",
+          "value": "Unknown"
+        },
+        {
+          "key": "Purpose",
+          "value": "Assistance"
+        }
+      ]
+    },
+    {
+      "id": "136447",
+      "convo_id": "136447",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Year",
+          "value": "2014"
+        },
+        {
+          "key": "Question",
+          "value": "Who can teach me about going out and having fun?"
+        },
+        {
+          "key": "Word Count",
+          "value": "11"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Emotion",
+          "value": "Excited"
+        },
+        {
+          "key": "Tone",
+          "value": "Hopeful"
+        },
+        {
+          "key": "Topic",
+          "value": "Social"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        }
+      ]
+    },
+    {
+      "id": "31y0d9",
+      "convo_id": "31y0d9",
+      "features": [
+        {
+          "key": "Dialectal",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Topic",
+          "value": "Gossip"
+        },
+        {
+          "key": "Media",
+          "value": "Television, Magazines"
+        },
+        {
+          "key": "Question",
+          "value": "Do you feel that gossip dominates the media?"
+        },
+        {
+          "key": "Response",
+          "value": "Yes, it's prevalent"
+        },
+        {
+          "key": "Adverb",
+          "value": "plaga"
+        },
+        {
+          "key": "Adjective",
+          "value": "prevalent"
+        },
+        {
+          "key": "Noun",
+          "value": "media"
+        },
+        {
+          "key": "Verb",
+          "value": "dominate"
+        }
+      ]
+    },
+    {
+      "id": "33ooht",
+      "convo_id": "33ooht",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Korean"
+        },
+        {
+          "key": "Emotion",
+          "value": "Sadness"
+        },
+        {
+          "key": "Request",
+          "value": "Help"
+        },
+        {
+          "key": "Language",
+          "value": "Simple"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        },
+        {
+          "key": "Count",
+          "value": "10"
+        },
+        {
+          "key": "Topic",
+          "value": "Not applicable"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Response",
+          "value": "Not enough information to respond accurately"
+        }
+      ]
+    },
+    {
+      "id": "2a6i20",
+      "convo_id": "2a6i20",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Cuisine",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dish",
+          "value": "Gazpacho and Tortilla de Patatas"
+        },
+        {
+          "key": "Challenge",
+          "value": "Finding a meat/chicken dish"
+        },
+        {
+          "key": "Request",
+          "value": "Recommendations"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Emotion",
+          "value": "Excitement"
+        },
+        {
+          "key": "Family",
+          "value": "Dinner"
+        },
+        {
+          "key": "Taste",
+          "value": "Spicy"
+        },
+        {
+          "key": "Preparation",
+          "value": "Easy to Moderate"
+        }
+      ]
+    },
+    {
+      "id": "2awg4x",
+      "convo_id": "2awg4x",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Standard Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Informal"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Frustration"
+        },
+        {
+          "key": "Topic",
+          "value": "Technical"
+        },
+        {
+          "key": "Domain Specific",
+          "value": "Not Working"
+        },
+        {
+          "key": "Source",
+          "value": "Reddit"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        }
+      ]
+    },
+    {
+      "id": "2gy95r",
+      "convo_id": "2gy95r",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Emotion",
+          "value": "Confusion"
+        },
+        {
+          "key": "Question",
+          "value": "Yes/No"
+        },
+        {
+          "key": "Topic",
+          "value": "Legal profession in Spain"
+        },
+        {
+          "key": "User",
+          "value": "Non-native speaker"
+        },
+        {
+          "key": "Citizenship",
+          "value": "American, Italian"
+        },
+        {
+          "key": "Request",
+          "value": "Information"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        }
+      ]
+    },
+    {
+      "id": "1hn90h",
+      "convo_id": "1hn90h",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Formal"
+        },
+        {
+          "key": "Tone",
+          "value": "Neutral"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "List"
+        },
+        {
+          "key": "Request",
+          "value": "Extract features"
+        },
+        {
+          "key": "Topic",
+          "value": "Not specified"
+        },
+        {
+          "key": "Instructions",
+          "value": "JSON format"
+        },
+        {
+          "key": "Response",
+          "value": "Structured"
+        }
+      ]
+    },
+    {
+      "id": "4pl3l6",
+      "convo_id": "4pl3l6",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some English words"
+        },
+        {
+          "key": "Emotion",
+          "value": "Positive"
+        },
+        {
+          "key": "Topic",
+          "value": "European Union and politics"
+        },
+        {
+          "key": "Question",
+          "value": "Multiple"
+        },
+        {
+          "key": "Format",
+          "value": "Discussion/Forum"
+        },
+        {
+          "key": "Purpose",
+          "value": "Seeking opinions and participation"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Word Count",
+          "value": "106"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        }
+      ]
+    },
+    {
+      "id": "1uyidz",
+      "convo_id": "1uyidz",
+      "features": [
+        {
+          "key": "Language",
+          "value": "English"
+        },
+        {
+          "key": "Dialect",
+          "value": "American English"
+        },
+        {
+          "key": "Gender",
+          "value": "Male"
+        },
+        {
+          "key": "Age",
+          "value": "26"
+        },
+        {
+          "key": "Relationship",
+          "value": "Casual"
+        },
+        {
+          "key": "Location",
+          "value": "Unspecified"
+        },
+        {
+          "key": "Desire",
+          "value": "Physical Intimacy"
+        },
+        {
+          "key": "Friendship",
+          "value": "Potential"
+        },
+        {
+          "key": "Interest",
+          "value": "Mutual"
+        },
+        {
+          "key": "Communication",
+          "value": "Direct"
+        }
+      ]
+    },
+    {
+      "id": "xkcng",
+      "convo_id": "xkcng",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Timeframe",
+          "value": "September"
+        },
+        {
+          "key": "Health",
+          "value": "Insurance"
+        },
+        {
+          "key": "Contraception",
+          "value": "IUD"
+        },
+        {
+          "key": "Access",
+          "value": "Unknown"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Grammar",
+          "value": "Standard"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Simple"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Question Mark"
+        }
+      ]
+    },
+    {
+      "id": "38im66",
+      "convo_id": "38im66",
+      "features": []
+    },
+    {
+      "id": "3bcj9v",
+      "convo_id": "3bcj9v",
+      "features": [
+        {
+          "key": "Location",
+          "value": "Ireland to Spain"
+        },
+        {
+          "key": "Movement",
+          "value": "Change places"
+        },
+        {
+          "key": "Offer",
+          "value": "Offer to swap"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, English"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Direct"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Request",
+          "value": "Asking politely"
+        },
+        {
+          "key": "Response",
+          "value": "None"
+        },
+        {
+          "key": "Context",
+          "value": "Swapping homes"
+        },
+        {
+          "key": "Emotion",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "mxs46",
+      "convo_id": "mxs46",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish (Mexico)"
+        },
+        {
+          "key": "Subreddit",
+          "value": "r/mexico"
+        },
+        {
+          "key": "Movie",
+          "value": "Violetas Imperiales"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Request",
+          "value": "Help finding a DVD"
+        },
+        {
+          "key": "Holiday",
+          "value": "Christmas"
+        },
+        {
+          "key": "Region",
+          "value": "Mexico, Spain"
+        },
+        {
+          "key": "Format",
+          "value": "DVD"
+        },
+        {
+          "key": "Source",
+          "value": "BitTorrent"
+        },
+        {
+          "key": "Quality",
+          "value": "Poor"
+        }
+      ]
+    },
+    {
+      "id": "100339",
+      "convo_id": "100339",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some English words"
+        },
+        {
+          "key": "Country",
+          "value": "USA"
+        },
+        {
+          "key": "Destination",
+          "value": "Sevilla, Spain"
+        },
+        {
+          "key": "Work Location",
+          "value": "Outside of Sevilla"
+        },
+        {
+          "key": "Transportation",
+          "value": "Cercanías (train) to work"
+        },
+        {
+          "key": "Preferred Location",
+          "value": "Near Santa Justa or Estacion San Sebastian"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, sorry for the poor Spanish"
+        },
+        {
+          "key": "Help",
+          "value": "Appreciates assistance with accommodation search"
+        },
+        {
+          "key": "Timeframe",
+          "value": "3 days"
+        },
+        {
+          "key": "Job",
+          "value": "English teacher"
+        }
+      ]
+    },
+    {
+      "id": "10nd96",
+      "convo_id": "10nd96",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Toledo"
+        },
+        {
+          "key": "Emotion",
+          "value": "Excited"
+        },
+        {
+          "key": "Activity",
+          "value": "Exploring"
+        },
+        {
+          "key": "Social",
+          "value": "Seeking company"
+        },
+        {
+          "key": "Time",
+          "value": "Weekend"
+        },
+        {
+          "key": "Work",
+          "value": "New job"
+        },
+        {
+          "key": "Social Need",
+          "value": "Connection"
+        },
+        {
+          "key": "Interest",
+          "value": "Culture"
+        },
+        {
+          "key": "Plan",
+          "value": "Meetups"
+        }
+      ]
+    },
+    {
+      "id": "7nih6q",
+      "convo_id": "7nih6q",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Barcelona, Spain"
+        },
+        {
+          "key": "Date",
+          "value": "20th of this month"
+        },
+        {
+          "key": "Destination",
+          "value": "Girona"
+        },
+        {
+          "key": "Transport",
+          "value": "Train"
+        },
+        {
+          "key": "Distance",
+          "value": "Medium"
+        },
+        {
+          "key": "Duration",
+          "value": "Fast"
+        },
+        {
+          "key": "Accommodation",
+          "value": "Near Plaza Cataluña"
+        },
+        {
+          "key": "Request",
+          "value": "Recommendations for sights and food"
+        },
+        {
+          "key": "Days",
+          "value": "Saturday or Sunday"
+        }
+      ]
+    }
+  ],
+  "d_pug": [
+    {
+      "id": "otkt4",
+      "convo_id": "otkt4",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Madrid"
+        },
+        {
+          "key": "Action",
+          "value": "Studying"
+        },
+        {
+          "key": "Duration",
+          "value": "Months"
+        },
+        {
+          "key": "Interest",
+          "value": "Food, Activities"
+        },
+        {
+          "key": "Question",
+          "value": "Recommendations"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        },
+        {
+          "key": "Response",
+          "value": "Answer"
+        }
+      ]
+    },
+    {
+      "id": "c3jy06l",
+      "convo_id": "otkt4",
+      "features": [
+        {
+          "key": "Subreddit",
+          "value": "gracias"
+        },
+        {
+          "key": "Action",
+          "value": "find"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish, Latin American"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Grateful, unable"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Topic",
+          "value": "Not specified"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        }
+      ]
+    },
+    {
+      "id": "c3k0kw9",
+      "convo_id": "otkt4",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Emotion",
+          "value": "Excitement"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Positive"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Informal"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Enthusiastic"
+        },
+        {
+          "key": "Topic",
+          "value": "Food"
+        },
+        {
+          "key": "Show Reference",
+          "value": "How I Met Your Mother"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Simple"
+        }
+      ]
+    },
+    {
+      "id": "c3k5bvl",
+      "convo_id": "otkt4",
+      "features": [
+        {
+          "key": "Education",
+          "value": "New England College of Optometry"
+        },
+        {
+          "key": "Location",
+          "value": "Boston"
+        },
+        {
+          "key": "Experience",
+          "value": "3 months"
+        },
+        {
+          "key": "Location of Work",
+          "value": "Madrid"
+        },
+        {
+          "key": "Role",
+          "value": "Optometry Clinic"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Native Language",
+          "value": "English"
+        },
+        {
+          "key": "Education System",
+          "value": "US"
+        },
+        {
+          "key": "Experience Gain",
+          "value": "Clinical Practice"
+        },
+        {
+          "key": "Specialization",
+          "value": "Optometry"
+        }
+      ]
+    },
+    {
+      "id": "c3k7jdf",
+      "convo_id": "ounl9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Rioplatense Spanish"
+        },
+        {
+          "key": "Region",
+          "value": "Argentina, Uruguay"
+        },
+        {
+          "key": "Gender",
+          "value": "Male"
+        },
+        {
+          "key": "Name",
+          "value": "Juan"
+        },
+        {
+          "key": "Age",
+          "value": "35-44"
+        },
+        {
+          "key": "Occupation",
+          "value": "Businessman"
+        },
+        {
+          "key": "Social Status",
+          "value": "Upper-middle class"
+        },
+        {
+          "key": "Education",
+          "value": "University graduate"
+        },
+        {
+          "key": "Family",
+          "value": "Married with 2 children"
+        },
+        {
+          "key": "Hobbies",
+          "value": "Football, Wine tasting"
+        }
+      ]
+    },
+    {
+      "id": "c3k7sw8",
+      "convo_id": "ounl9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Question",
+          "value": "Yes"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Word",
+          "value": "Perdon"
+        },
+        {
+          "key": "Sentence",
+          "value": "Oh perdon"
+        },
+        {
+          "key": "Word Count",
+          "value": "5"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Tone",
+          "value": "Polite"
+        },
+        {
+          "key": "Context",
+          "value": "Asking for forgiveness"
+        }
+      ]
+    },
+    {
+      "id": "c3v1ko5",
+      "convo_id": "q5yqm",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Website",
+          "value": "airbnb.com"
+        },
+        {
+          "key": "Verb",
+          "value": "está"
+        },
+        {
+          "key": "Verb Form",
+          "value": "estando"
+        },
+        {
+          "key": "Adjective",
+          "value": "bueno"
+        },
+        {
+          "key": "Noun",
+          "value": "apartamento"
+        },
+        {
+          "key": "Adverb",
+          "value": "también"
+        },
+        {
+          "key": "Adverb Form",
+          "value": "también"
+        },
+        {
+          "key": "Preposition",
+          "value": "en"
+        }
+      ]
+    }
+  ],
+  "GobBluthJD": [
+    {
+      "id": "os3ao",
+      "convo_id": "os3ao",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Catalan"
+        },
+        {
+          "key": "Location",
+          "value": "US"
+        },
+        {
+          "key": "Language Learning Goal",
+          "value": "Learn Catalan"
+        },
+        {
+          "key": "Media Type",
+          "value": "TV, Movies, Music, Books"
+        },
+        {
+          "key": "Practice",
+          "value": "Auditory and Visual"
+        },
+        {
+          "key": "Content",
+          "value": "Catalan Language Exposure"
+        },
+        {
+          "key": "Request",
+          "value": "Recommendations"
+        },
+        {
+          "key": "Response",
+          "value": "Helpful Resources"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        },
+        {
+          "key": "Response Length",
+          "value": "Concise"
+        }
+      ]
+    }
+  ],
+  "BeggAndEacon": [
+    {
+      "id": "ounl9",
+      "convo_id": "ounl9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Topic",
+          "value": "Career"
+        },
+        {
+          "key": "Question Type",
+          "value": "Multiple Choice"
+        },
+        {
+          "key": "Response Format",
+          "value": "Text"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Emotion",
+          "value": "Neutral"
+        },
+        {
+          "key": "Topic Specific",
+          "value": "Career"
+        },
+        {
+          "key": "Topic Specific Details",
+          "value": "Job Market, Expectations, Choices"
+        }
+      ]
+    },
+    {
+      "id": "c3k6j1f",
+      "convo_id": "ounl9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Formal"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Length",
+          "value": "Medium"
+        },
+        {
+          "key": "Format",
+          "value": "List"
+        },
+        {
+          "key": "Number of Features",
+          "value": "10"
+        },
+        {
+          "key": "Instructions",
+          "value": "JSON"
+        },
+        {
+          "key": "Topic",
+          "value": "Not included"
+        },
+        {
+          "key": "Content",
+          "value": "Extracted features"
+        }
+      ]
+    },
+    {
+      "id": "c3k7o7p",
+      "convo_id": "ounl9",
+      "features": [
+        {
+          "key": "Objective",
+          "value": "Personal responses"
+        },
+        {
+          "key": "Task",
+          "value": "Extract features"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        },
+        {
+          "key": "Instructions",
+          "value": "Top 10 features"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Request",
+          "value": "Dialectal, linguistic, stylistic"
+        },
+        {
+          "key": "Ignore",
+          "value": "Topic-specific, semantic"
+        },
+        {
+          "key": "Output",
+          "value": "List of tuples"
+        },
+        {
+          "key": "Tuple format",
+          "value": "Key-Value"
+        },
+        {
+          "key": "Key length",
+          "value": "2-3 words"
+        },
+        {
+          "key": "Value length",
+          "value": "2-3 words"
+        }
+      ]
+    }
+  ],
+  "CrackHeadRodeo": [
+    {
+      "id": "1dn387",
+      "convo_id": "1dn387",
+      "features": [
+        {
+          "key": "Greeting",
+          "value": "Gracias"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        }
+      ]
+    }
+  ],
+  "Landao90": [
+    {
+      "id": "1ew9l9",
+      "convo_id": "1ew9l9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Age Range",
+          "value": "Adult"
+        },
+        {
+          "key": "Age",
+          "value": "23"
+        },
+        {
+          "key": "Gender",
+          "value": "Male"
+        },
+        {
+          "key": "Interest",
+          "value": "Sports"
+        },
+        {
+          "key": "Sport",
+          "value": "Football"
+        },
+        {
+          "key": "Inquiry",
+          "value": "Participation"
+        },
+        {
+          "key": "Source",
+          "value": "Online"
+        },
+        {
+          "key": "Device",
+          "value": "Web"
+        }
+      ]
+    },
+    {
+      "id": "ca4ffv2",
+      "convo_id": "1ew9l9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Education",
+          "value": "Medicine"
+        },
+        {
+          "key": "Time Commitment",
+          "value": "High"
+        },
+        {
+          "key": "Interest",
+          "value": "Sports"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Writing Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Informal"
+        },
+        {
+          "key": "Question",
+          "value": "Yes"
+        },
+        {
+          "key": "Response Type",
+          "value": "Information"
+        }
+      ]
+    },
+    {
+      "id": "ca4g9a1",
+      "convo_id": "1ew9l9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Emotion",
+          "value": "Thankful"
+        },
+        {
+          "key": "Tone",
+          "value": "Casual"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Salutation",
+          "value": "Jajaja"
+        },
+        {
+          "key": "Part of Speech",
+          "value": "Interjection"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Word Count",
+          "value": "5"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "TheIronNugget": [
+    {
+      "id": "1f70e5",
+      "convo_id": "1f70e5",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Irish English"
+        },
+        {
+          "key": "Language Level",
+          "value": "Advanced"
+        },
+        {
+          "key": "Age",
+          "value": "19"
+        },
+        {
+          "key": "Country",
+          "value": "Ireland"
+        },
+        {
+          "key": "Travel History",
+          "value": "No"
+        },
+        {
+          "key": "Work Hours",
+          "value": "18 hours/week"
+        },
+        {
+          "key": "Interest in",
+          "value": "Nightlife, Culture"
+        },
+        {
+          "key": "Destination",
+          "value": "Granada"
+        },
+        {
+          "key": "Duration",
+          "value": "6 weeks"
+        },
+        {
+          "key": "Activity",
+          "value": "Work, Sightseeing"
+        }
+      ]
+    }
+  ],
+  "Resbeltz": [
+    {
+      "id": "5wvz74",
+      "convo_id": "5wvz74",
+      "features": [
+        {
+          "key": "Speaker",
+          "value": "Santiago Abascal"
+        },
+        {
+          "key": "Party",
+          "value": "VOX"
+        },
+        {
+          "key": "Election",
+          "value": "Last election"
+        },
+        {
+          "key": "Vote% received",
+          "value": "0.2%"
+        },
+        {
+          "key": "Forum",
+          "value": "Forocoches"
+        },
+        {
+          "key": "Thread",
+          "value": "AMA"
+        },
+        {
+          "key": "Response",
+          "value": "Uninteresting"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish, Catalan"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Humorous"
+        }
+      ]
+    },
+    {
+      "id": "d907wtl",
+      "convo_id": "58g0pp",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Valencian"
+        },
+        {
+          "key": "Location",
+          "value": "Valencia, Spain"
+        },
+        {
+          "key": "Article Type",
+          "value": "News"
+        },
+        {
+          "key": "Publication",
+          "value": "Publico"
+        },
+        {
+          "key": "Date",
+          "value": "Unknown"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Word Count",
+          "value": "116"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "5"
+        },
+        {
+          "key": "Tone",
+          "value": "Informational"
+        },
+        {
+          "key": "Topic",
+          "value": "Media"
+        }
+      ]
+    },
+    {
+      "id": "d9vnyqk",
+      "convo_id": "5cb5h9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Mexican"
+        },
+        {
+          "key": "Insult",
+          "value": "Pendejo"
+        },
+        {
+          "key": "Related Insult",
+          "value": "Bastardo"
+        },
+        {
+          "key": "Usage",
+          "value": "Rare"
+        },
+        {
+          "key": "Region",
+          "value": "Not Specific"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Tone",
+          "value": "Negative"
+        },
+        {
+          "key": "Context",
+          "value": "Insulting"
+        },
+        {
+          "key": "Number of Words",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "d9w284o",
+      "convo_id": "5cb5h9",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Insults",
+          "value": "Cabron, hijo de puta, capullo"
+        },
+        {
+          "key": "Meme",
+          "value": "Prohibir memes"
+        },
+        {
+          "key": "Panda",
+          "value": "Hijo de puta"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration"
+        },
+        {
+          "key": "Topic",
+          "value": "Prohibición de memes"
+        },
+        {
+          "key": "Style",
+          "value": "Directo y agresivo"
+        },
+        {
+          "key": "Length",
+          "value": "Breve"
+        },
+        {
+          "key": "Frequency",
+          "value": "Común"
+        },
+        {
+          "key": "Region",
+          "value": "España"
+        }
+      ]
+    },
+    {
+      "id": "db3rn5y",
+      "convo_id": "5hxaht",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Emotion",
+          "value": "Shame"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Word Count",
+          "value": "3"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Tone",
+          "value": "Emotional"
+        },
+        {
+          "key": "Topic",
+          "value": "None"
+        },
+        {
+          "key": "Semantic",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "id": "dbdvcti",
+      "convo_id": "5j6bnb",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Tone",
+          "value": "Angry"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration"
+        },
+        {
+          "key": "Word Count",
+          "value": "14"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "3"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "dbdxu2j",
+      "convo_id": "5j6bnb",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Claro"
+        },
+        {
+          "key": "Verb",
+          "value": "Ven"
+        },
+        {
+          "key": "Verb Form",
+          "value": "Vienen"
+        },
+        {
+          "key": "Preposition",
+          "value": "Para"
+        },
+        {
+          "key": "Preposition Form",
+          "value": "Consiguer"
+        },
+        {
+          "key": "Verb",
+          "value": "Votos"
+        },
+        {
+          "key": "Noun",
+          "value": "Votantes"
+        },
+        {
+          "key": "Noun Form",
+          "value": "Votante"
+        },
+        {
+          "key": "Adverb",
+          "value": "Genial"
+        },
+        {
+          "key": "Adverb Form",
+          "value": "Genialmente"
+        }
+      ]
+    },
+    {
+      "id": "dbffum6",
+      "convo_id": "5jds1l",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Emotion",
+          "value": "Anger"
+        },
+        {
+          "key": "Topic",
+          "value": "Social Media"
+        },
+        {
+          "key": "Social Media Platform",
+          "value": "Twitter"
+        },
+        {
+          "key": "User Behavior",
+          "value": "Criticism"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Strong"
+        },
+        {
+          "key": "Tone",
+          "value": "Negative"
+        }
+      ]
+    },
+    {
+      "id": "dbfx8ma",
+      "convo_id": "5jds1l",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Topic",
+          "value": "Terrorism"
+        },
+        {
+          "key": "Style",
+          "value": "Argumentative"
+        },
+        {
+          "key": "Tone",
+          "value": "Critical"
+        },
+        {
+          "key": "Hashtags",
+          "value": "lucha_armada, ETA"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        },
+        {
+          "key": "Response",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "dbfxowz",
+      "convo_id": "5jds1l",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Standard Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Tone",
+          "value": "Angry"
+        },
+        {
+          "key": "Topic",
+          "value": "Refugees"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Word Count",
+          "value": "11"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Character Count",
+          "value": "31"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "dbfyyvj",
+      "convo_id": "5jds1l",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Basque"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Tone",
+          "value": "Excited"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Exclamation"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Capitalization",
+          "value": "All Caps"
+        },
+        {
+          "key": "Emphasis",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Syntax",
+          "value": "Contractions"
+        }
+      ]
+    },
+    {
+      "id": "dbp5l81",
+      "convo_id": "5kkr2i",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Madrid"
+        },
+        {
+          "key": "Adverb",
+          "value": "Ya existe"
+        },
+        {
+          "key": "Noun",
+          "value": "Hogar Social"
+        },
+        {
+          "key": "Adjective",
+          "value": "nazis"
+        },
+        {
+          "key": "Adjective",
+          "value": "llevado"
+        },
+        {
+          "key": "Verb",
+          "value": "ser"
+        },
+        {
+          "key": "Verb",
+          "value": "está"
+        },
+        {
+          "key": "Adverb",
+          "value": "si"
+        },
+        {
+          "key": "Punctuation",
+          "value": "."
+        }
+      ]
+    },
+    {
+      "id": "dc10mm0",
+      "convo_id": "5m1uw8",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "City",
+          "value": "Madrid, Barcelona"
+        },
+        {
+          "key": "Action",
+          "value": "Leaving bike outside"
+        },
+        {
+          "key": "Consequence",
+          "value": "Nothing happened"
+        },
+        {
+          "key": "Safety",
+          "value": "Open doors"
+        },
+        {
+          "key": "Time",
+          "value": "Day"
+        },
+        {
+          "key": "Frequency",
+          "value": "Common"
+        },
+        {
+          "key": "Region",
+          "value": "Towns"
+        },
+        {
+          "key": "Culture",
+          "value": "Relaxed"
+        }
+      ]
+    },
+    {
+      "id": "dcdlhdk",
+      "convo_id": "5nkddg",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Topic",
+          "value": "Personal life and news"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Simple present tense, second person"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Informal, casual tone"
+        },
+        {
+          "key": "Length",
+          "value": "Short, concise"
+        },
+        {
+          "key": "Style",
+          "value": "Direct, conversational"
+        },
+        {
+          "key": "Emotion",
+          "value": "None"
+        },
+        {
+          "key": "Syntax",
+          "value": "Simple"
+        },
+        {
+          "key": "Punctuation",
+          "value": "No punctuation"
+        }
+      ]
+    },
+    {
+      "id": "dcsjtdc",
+      "convo_id": "5pd3hf",
+      "features": [
+        {
+          "key": "Motivation",
+          "value": "Curiosity"
+        },
+        {
+          "key": "Interest",
+          "value": "History"
+        },
+        {
+          "key": "Impact",
+          "value": "Service"
+        },
+        {
+          "key": "Experience",
+          "value": "Training"
+        },
+        {
+          "key": "Challenge",
+          "value": "Growth"
+        },
+        {
+          "key": "Community",
+          "value": " camaraderie"
+        },
+        {
+          "key": "Pride",
+          "value": "Achievement"
+        },
+        {
+          "key": " dedication",
+          "value": "Country"
+        },
+        {
+          "key": "Benefits",
+          "value": "Education"
+        },
+        {
+          "key": "Risk",
+          "value": "Reward"
+        }
+      ]
+    },
+    {
+      "id": "dcu3ild",
+      "convo_id": "5pv8hl",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Regional: Andalusian"
+        },
+        {
+          "key": "Gender",
+          "value": "Male"
+        },
+        {
+          "key": "Age",
+          "value": "Senior Citizen"
+        },
+        {
+          "key": "Occupation",
+          "value": "Bar Owner"
+        },
+        {
+          "key": "Political",
+          "value": "Francoist"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Tone",
+          "value": "Sexist, Offensive"
+        },
+        {
+          "key": "Topic",
+          "value": "Social Issues"
+        },
+        {
+          "key": "Format",
+          "value": "Dialog"
+        },
+        {
+          "key": "Region",
+          "value": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "dcu49wi",
+      "convo_id": "5pv8hl",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Southern Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Profane"
+        },
+        {
+          "key": "Tone",
+          "value": "Negative, Sarcasm"
+        },
+        {
+          "key": "Topic",
+          "value": "Politics"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Word Count",
+          "value": "10"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Emotion",
+          "value": "Anger"
+        }
+      ]
+    },
+    {
+      "id": "dcu58ia",
+      "convo_id": "5pv8hl",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Topic",
+          "value": "Political"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Style",
+          "value": "Angry"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Word Count",
+          "value": "10"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Capitalization",
+          "value": "None"
+        },
+        {
+          "key": "Emotion",
+          "value": "Anger"
+        }
+      ]
+    },
+    {
+      "id": "dcu5lax",
+      "convo_id": "5pv8hl",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Tone",
+          "value": "Casual"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Word Count",
+          "value": "3"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation Mark"
+        },
+        {
+          "key": "Emotion",
+          "value": "None"
+        },
+        {
+          "key": "Topic",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "dcu5qjb",
+      "convo_id": "5pv8hl",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Political",
+          "value": "PP and Ciudadanos"
+        },
+        {
+          "key": "Name",
+          "value": "Gracias a PP y Ciudadanos"
+        },
+        {
+          "key": "Purpose",
+          "value": "Honoring a person"
+        },
+        {
+          "key": "Number of Vote",
+          "value": "6"
+        },
+        {
+          "key": "Political Party",
+          "value": "PP and C's"
+        },
+        {
+          "key": "Action",
+          "value": "Name change"
+        },
+        {
+          "key": "Type of Name Change",
+          "value": "Street naming"
+        },
+        {
+          "key": "Emotion",
+          "value": "Gratitude"
+        }
+      ]
+    }
+  ],
+  "OStateDeadHead": [
+    {
+      "id": "5wwmxb",
+      "convo_id": "5wwmxb",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some regional influences"
+        },
+        {
+          "key": "Location",
+          "value": "Santiago, Valladolid"
+        },
+        {
+          "key": "Timeframe",
+          "value": "Next year"
+        },
+        {
+          "key": "Purpose",
+          "value": "Relocation"
+        },
+        {
+          "key": "Question Type",
+          "value": "Information"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Word Count",
+          "value": "12"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Simple, present tense"
+        },
+        {
+          "key": "Tone",
+          "value": "Casual"
+        },
+        {
+          "key": "Emotion",
+          "value": "Neutral"
+        }
+      ]
+    },
+    {
+      "id": "6duzlc",
+      "convo_id": "6duzlc",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Palma, Spain"
+        },
+        {
+          "key": "Emotion",
+          "value": "Thankful"
+        },
+        {
+          "key": "Grammar",
+          "value": "Correct"
+        },
+        {
+          "key": "Vocabulary",
+          "value": "Simple"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Formal"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Somewhat inconsistent"
+        },
+        {
+          "key": "Capitalization",
+          "value": "No capitalization"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        },
+        {
+          "key": "Emoticons",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "def0h4w",
+      "convo_id": "5wwmxb",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Age",
+          "value": "23"
+        },
+        {
+          "key": "Interest",
+          "value": "Culture and food"
+        },
+        {
+          "key": "Location",
+          "value": "Near a university"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Question",
+          "value": "Where to live"
+        },
+        {
+          "key": "Topic",
+          "value": "Living preferences"
+        },
+        {
+          "key": "Context",
+          "value": "University"
+        }
+      ]
+    },
+    {
+      "id": "dtdm82c",
+      "convo_id": "7tl1bo",
+      "features": [
+        {
+          "key": "Dialectos",
+          "value": "Catalán, Galego, Vasco"
+        },
+        {
+          "key": "Idioma",
+          "value": "Protección gubernamental"
+        },
+        {
+          "key": "Tiempo",
+          "value": "2 años"
+        },
+        {
+          "key": "Nacionalidad",
+          "value": "Estadounidense"
+        },
+        {
+          "key": "País",
+          "value": "España"
+        },
+        {
+          "key": "Época",
+          "value": "Pre-Franco"
+        },
+        {
+          "key": "Ilegal",
+          "value": "Catalán, Galego, Vasco"
+        },
+        {
+          "key": "Actualidad",
+          "value": "Legales"
+        },
+        {
+          "key": "Observación",
+          "value": "Protección gubernamental actual"
+        },
+        {
+          "key": "Conclusión",
+          "value": "No está seguro"
+        }
+      ]
+    }
+  ],
+  "LuciMir": [
+    {
+      "id": "5x77sk",
+      "convo_id": "5x77sk",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some regional variations"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, easy to learn for Italian speakers"
+        },
+        {
+          "key": "City Size",
+          "value": "Medium to large, offering a good balance"
+        },
+        {
+          "key": "University Rating",
+          "value": "High, with a range of options"
+        },
+        {
+          "key": "Nightlife",
+          "value": "Vibrant, with a good mix of options"
+        },
+        {
+          "key": "Culture",
+          "value": "Rich and diverse, with a strong historical influence"
+        },
+        {
+          "key": "Weather",
+          "value": "Mild to warm, with sunny days and mild winters"
+        },
+        {
+          "key": "Cost of Living",
+          "value": "Moderate to high, depending on the city"
+        }
+      ]
+    }
+  ],
+  "LouisHatesFrancis": [
+    {
+      "id": "5xotn0",
+      "convo_id": "5xotn0",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "USA"
+        },
+        {
+          "key": "Goal",
+          "value": "Get a US driver's license"
+        },
+        {
+          "key": "Timeframe",
+          "value": "Before returning to Spain in summer"
+        },
+        {
+          "key": "Question",
+          "value": "Is there a process to validate an foreign license?"
+        },
+        {
+          "key": "Issue",
+          "value": "Validity of foreign license in Spain"
+        },
+        {
+          "key": "Relevance",
+          "value": "Travel within EU"
+        },
+        {
+          "key": "Request",
+          "value": "Consequences of traveling in EU"
+        },
+        {
+          "key": "Response",
+          "value": "No clear answer"
+        },
+        {
+          "key": "Help",
+          "value": "Clarification needed"
+        }
+      ]
+    },
+    {
+      "id": "dekuqsq",
+      "convo_id": "5xotn0",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Verb Form",
+          "value": "tu respuesta"
+        },
+        {
+          "key": "Adverb",
+          "value": "entonces"
+        },
+        {
+          "key": "Pronoun",
+          "value": "tu"
+        },
+        {
+          "key": "Adjective",
+          "value": "propio"
+        },
+        {
+          "key": "Noun",
+          "value": "carnet"
+        },
+        {
+          "key": "Verb",
+          "value": "llegaste"
+        },
+        {
+          "key": "Adverbial",
+          "value": "cuando"
+        },
+        {
+          "key": "Adjective",
+          "value": "permitted"
+        }
+      ]
+    },
+    {
+      "id": "dekuv20",
+      "convo_id": "5xotn0",
+      "features": []
+    },
+    {
+      "id": "dekv3x4",
+      "convo_id": "5xotn0",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Comparison",
+          "value": "More difficult"
+        },
+        {
+          "key": "License",
+          "value": "Driving"
+        },
+        {
+          "key": "US",
+          "value": "Easy"
+        },
+        {
+          "key": "Study",
+          "value": "Theory"
+        },
+        {
+          "key": "Content",
+          "value": "Specific"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Question",
+          "value": "Challenge"
+        },
+        {
+          "key": "Response",
+          "value": "Unknown"
+        }
+      ]
+    }
+  ],
+  "reddgreen": [
+    {
+      "id": "5xv4p5",
+      "convo_id": "5xv4p5",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "UK"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Show Name",
+          "value": "Salvados"
+        },
+        {
+          "key": "Host",
+          "value": "Jordi Évole"
+        },
+        {
+          "key": "Language of Show",
+          "value": "Spanish"
+        },
+        {
+          "key": "Request",
+          "value": "Online streaming"
+        },
+        {
+          "key": "Free",
+          "value": "Yes"
+        },
+        {
+          "key": "Country Requested",
+          "value": "UK"
+        },
+        {
+          "key": "Format",
+          "value": "TV Show"
+        }
+      ]
+    },
+    {
+      "id": "5yog8w",
+      "convo_id": "5yog8w",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Basque"
+        },
+        {
+          "key": "Language",
+          "value": "Euskera/Vasco"
+        },
+        {
+          "key": "Genre",
+          "value": "Rock/Folk"
+        },
+        {
+          "key": "Artist",
+          "value": "Kenaz"
+        },
+        {
+          "key": "Artist",
+          "value": "Berri Tsapina"
+        },
+        {
+          "key": "Artist",
+          "value": "Kanala"
+        },
+        {
+          "key": "Song",
+          "value": "Euskal Herriko"
+        },
+        {
+          "key": "Song",
+          "value": "Gurasolea"
+        },
+        {
+          "key": "Song",
+          "value": "Euskal Etxea"
+        },
+        {
+          "key": "Group",
+          "value": "Gatibu"
+        }
+      ]
+    },
+    {
+      "id": "dew2f4i",
+      "convo_id": "5yog8w",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Standard Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Mexico"
+        },
+        {
+          "key": "Style",
+          "value": "Formal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Emotion",
+          "value": "Gratitude"
+        },
+        {
+          "key": "Word Count",
+          "value": "5"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "dew2ga4",
+      "convo_id": "5yog8w",
+      "features": [
+        {
+          "key": "Greeting",
+          "value": "Gracias"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        }
+      ]
+    },
+    {
+      "id": "dew2gl4",
+      "convo_id": "5yog8w",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Standard Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Mexico"
+        },
+        {
+          "key": "Style",
+          "value": "Formal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Emotion",
+          "value": "Gratitude"
+        },
+        {
+          "key": "Word Count",
+          "value": "5"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        }
+      ]
+    }
+  ],
+  "Yololio69": [
+    {
+      "id": "5y91mi",
+      "convo_id": "5y91mi",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Sevilla"
+        },
+        {
+          "key": "Emotion",
+          "value": "Love"
+        },
+        {
+          "key": "Adjective",
+          "value": "Beautiful"
+        },
+        {
+          "key": "Adjective",
+          "value": "Charming"
+        },
+        {
+          "key": "Verb",
+          "value": "Feel"
+        },
+        {
+          "key": "Verb",
+          "value": "Be"
+        },
+        {
+          "key": "Adverb",
+          "value": "Still"
+        },
+        {
+          "key": "Adverb",
+          "value": "Even"
+        },
+        {
+          "key": "Adverb",
+          "value": "When"
+        }
+      ]
+    },
+    {
+      "id": "5ii1kd",
+      "convo_id": "5ii1kd",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Critical"
+        },
+        {
+          "key": "Topic",
+          "value": "News Media"
+        },
+        {
+          "key": "Question",
+          "value": "Opinion"
+        },
+        {
+          "key": "Region",
+          "value": "Spain"
+        },
+        {
+          "key": "Source",
+          "value": "Online Forums"
+        },
+        {
+          "key": "Request",
+          "value": "Recommendation"
+        },
+        {
+          "key": "Format",
+          "value": "Text"
+        }
+      ]
+    },
+    {
+      "id": "db8x5i2",
+      "convo_id": "5ii1kd",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Simple"
+        },
+        {
+          "key": "Syntax",
+          "value": "Regular"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Minimal"
+        },
+        {
+          "key": "Emojis",
+          "value": "None"
+        },
+        {
+          "key": "Capitalization",
+          "value": "Mixed"
+        },
+        {
+          "key": "Hashtags",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "db9lhk2",
+      "convo_id": "5ii1kd",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Personal"
+        },
+        {
+          "key": "Topic",
+          "value": "Media"
+        },
+        {
+          "key": "Experience",
+          "value": "Foreign"
+        },
+        {
+          "key": "Source",
+          "value": "Podcasts"
+        },
+        {
+          "key": "Frequency",
+          "value": "Occasional"
+        },
+        {
+          "key": "Duration",
+          "value": "Season"
+        }
+      ]
+    },
+    {
+      "id": "db9n5bm",
+      "convo_id": "5ii1kd",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Age Group",
+          "value": "Young adult"
+        },
+        {
+          "key": "Music Consumption",
+          "value": "Digital downloads"
+        },
+        {
+          "key": "Radio Usage",
+          "value": "Low"
+        },
+        {
+          "key": "Podcast Usage",
+          "value": "Some"
+        },
+        {
+          "key": "Online Music Platforms",
+          "value": "YouTube"
+        },
+        {
+          "key": "Radio Format",
+          "value": "Conventional"
+        },
+        {
+          "key": "Media Consumption Habits",
+          "value": "Digital-first"
+        },
+        {
+          "key": "Generational Preferences",
+          "value": "Millennial/Gen Z"
+        }
+      ]
+    },
+    {
+      "id": "de5c5hu",
+      "convo_id": "5vsyys",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Region",
+          "value": "Spain"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Conversational"
+        },
+        {
+          "key": "Tone",
+          "value": "Informal, Persuasive"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Format",
+          "value": "Story"
+        },
+        {
+          "key": "Topic",
+          "value": "Energy, Electricity, Sales"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration, Persuasion"
+        },
+        {
+          "key": "Word Count",
+          "value": "100+"
+        },
+        {
+          "key": "Syntax",
+          "value": "Complex, Varied"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Emotion",
+          "value": "Negative"
+        },
+        {
+          "key": "Emotion_Tone",
+          "value": "Angry"
+        },
+        {
+          "key": "Topic",
+          "value": "Scam"
+        },
+        {
+          "key": "Target",
+          "value": "Customers"
+        },
+        {
+          "key": "Target_Group",
+          "value": "Seniors, Young Adults"
+        },
+        {
+          "key": "Target_Group_2",
+          "value": "All"
+        },
+        {
+          "key": "Method",
+          "value": "Deception"
+        },
+        {
+          "key": "Method_Detail",
+          "value": "Misleading information, Lack of transparency"
+        },
+        {
+          "key": "Impact",
+          "value": "Financial loss"
+        },
+        {
+          "key": "Impact_Amount",
+          "value": "Variable"
+        },
+        {
+          "key": "Impact_Frequency",
+          "value": "High"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Friendly"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        },
+        {
+          "key": "Number of Words",
+          "value": "10"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "1"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "de5s4n8",
+      "convo_id": "5vsyys",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Central American"
+        },
+        {
+          "key": "Style",
+          "value": "Informal, Conversational"
+        },
+        {
+          "key": "Topic",
+          "value": "Refugees, Civil War"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Word Count",
+          "value": "11"
+        },
+        {
+          "key": "Punctuation",
+          "value": "None"
+        },
+        {
+          "key": "Capitalization",
+          "value": "None"
+        },
+        {
+          "key": "Emojis",
+          "value": "None"
+        },
+        {
+          "key": "Special Characters",
+          "value": "None"
+        }
+      ]
+    },
+    {
+      "id": "de5tauq",
+      "convo_id": "5vsyys",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Informal, slangy"
+        },
+        {
+          "key": "Emotion",
+          "value": "Humor, sarcasm"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, conversational"
+        },
+        {
+          "key": "Syntax",
+          "value": "Simple, short sentences"
+        },
+        {
+          "key": "Vocabulary",
+          "value": "Colloquial, slang terms"
+        },
+        {
+          "key": "Topic",
+          "value": "Daily life, personal experiences"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Special Characters",
+          "value": "Emojis"
+        },
+        {
+          "key": "Punctuation",
+          "value": "Exclamation marks"
+        },
+        {
+          "key": "Tone",
+          "value": "Casual, friendly"
+        }
+      ]
+    },
+    {
+      "id": "deoyz3m",
+      "convo_id": "5y91mi",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Rioplatense Spanish"
+        },
+        {
+          "key": "Greeting",
+          "value": "Hola"
+        },
+        {
+          "key": "Question",
+          "value": "Vos?"
+        },
+        {
+          "key": "Word Order",
+          "value": "Subject-Verb-Object"
+        },
+        {
+          "key": "Pronoun",
+          "value": "I"
+        },
+        {
+          "key": "Verb Form",
+          "value": "Past Tense"
+        },
+        {
+          "key": "Adverb",
+          "value": "Hace muchos años"
+        },
+        {
+          "key": "Emotion",
+          "value": "None"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        }
+      ]
+    },
+    {
+      "id": "depw244",
+      "convo_id": "5y91mi",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Southern Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal, Slang"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Word Count",
+          "value": "11"
+        },
+        {
+          "key": "Punctuation",
+          "value": "No punctuation"
+        },
+        {
+          "key": "Capitalization",
+          "value": "All lowercase"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration"
+        },
+        {
+          "key": "Topic",
+          "value": "Unspecific"
+        },
+        {
+          "key": "Region",
+          "value": "Spain"
+        }
+      ]
+    },
+    {
+      "id": "e77k829",
+      "convo_id": "9ljwyw",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "London"
+        },
+        {
+          "key": "Comparison",
+          "value": "enormous"
+        },
+        {
+          "key": "Comparison",
+          "value": "huge"
+        },
+        {
+          "key": "Adjective",
+          "value": "enormous"
+        },
+        {
+          "key": "Adjective",
+          "value": "huge"
+        },
+        {
+          "key": "Object",
+          "value": "bicycles"
+        },
+        {
+          "key": "Material",
+          "value": "metal"
+        },
+        {
+          "key": "Description",
+          "value": "cheap"
+        },
+        {
+          "key": "Adverb",
+          "value": "heavy"
+        },
+        {
+          "key": "Adverb",
+          "value": "hefty"
+        }
+      ]
+    },
+    {
+      "id": "e77kmls",
+      "convo_id": "9ljwyw",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spoken in Mexico"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Slang"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Colloquial"
+        },
+        {
+          "key": "Syntax",
+          "value": "Simple, Direct"
+        },
+        {
+          "key": "Tone",
+          "value": "Questioning, Surprised"
+        },
+        {
+          "key": "Emotion",
+          "value": "Confusion"
+        },
+        {
+          "key": "Topic",
+          "value": "Bicycles, Money"
+        },
+        {
+          "key": "Question",
+          "value": "Is this a viable option?"
+        },
+        {
+          "key": "Response",
+          "value": "Surprise, Doubt"
+        }
+      ]
+    }
+  ],
+  "adann62": [
+    {
+      "id": "5ysasf",
+      "convo_id": "5ysasf",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Safety",
+          "value": "Potential safety concerns mentioned"
+        },
+        {
+          "key": "Safety Concerns",
+          "value": "Discrimination and racism issues mentioned"
+        },
+        {
+          "key": "Destination",
+          "value": "Spain"
+        },
+        {
+          "key": "Traveler Description",
+          "value": "Moreno, Mexican descent, friends with African descent"
+        },
+        {
+          "key": "Time of Visit",
+          "value": "Later in the year"
+        },
+        {
+          "key": "Region",
+          "value": "Small towns in Italy and South America"
+        },
+        {
+          "key": "Time of Day",
+          "value": "Night"
+        }
+      ]
+    }
+  ],
+  "TheViking4": [
+    {
+      "id": "5yu3nd",
+      "convo_id": "5yu3nd",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, possibly with a mix of other dialects"
+        },
+        {
+          "key": "Language",
+          "value": "English"
+        },
+        {
+          "key": "Grammar",
+          "value": "Some errors, indicating a non-native speaker"
+        },
+        {
+          "key": "Vocabulary",
+          "value": "Limited, with a few words and phrases"
+        },
+        {
+          "key": "Pronunciation",
+          "value": "May have an accent or unique pronunciation patterns"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "Simple and basic, with a subject-verb-object order"
+        },
+        {
+          "key": "Vocational",
+          "value": "Student, possibly with a family member who is a teacher"
+        },
+        {
+          "key": "Travel",
+          "value": "Wants to visit Spain"
+        }
+      ]
+    }
+  ],
+  "Amds97": [
+    {
+      "id": "5z127v",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Italian"
+        },
+        {
+          "key": "Country",
+          "value": "Uruguay, USA"
+        },
+        {
+          "key": "Family",
+          "value": "Yes"
+        },
+        {
+          "key": "Age",
+          "value": "19"
+        },
+        {
+          "key": "Education",
+          "value": "University"
+        },
+        {
+          "key": "Location preference",
+          "value": "Warm climate, Beach"
+        },
+        {
+          "key": "Location considered",
+          "value": "Valencia, Alicante"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Challenge",
+          "value": "Job search, Adaptation"
+        },
+        {
+          "key": "Question",
+          "value": "University, Culture, Adaptability"
+        }
+      ]
+    },
+    {
+      "id": "detd2es",
+      "convo_id": "5c4izm",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Uruguayan Spanish"
+        },
+        {
+          "key": "Destination",
+          "value": "Spain"
+        },
+        {
+          "key": "Beach",
+          "value": "Yes"
+        },
+        {
+          "key": "Temperature",
+          "value": "Warm to Hot"
+        },
+        {
+          "key": "Preferred Areas",
+          "value": "Valencia or Alicante"
+        },
+        {
+          "key": "Adaptability",
+          "value": "Easy"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Family-Friendly",
+          "value": "Yes"
+        },
+        {
+          "key": "Culture",
+          "value": "Rich and Diverse"
+        },
+        {
+          "key": "Food",
+          "value": "Delicious and Diverse"
+        }
+      ]
+    },
+    {
+      "id": "deuhr1o",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Argentina"
+        },
+        {
+          "key": "Business",
+          "value": "Gas station"
+        },
+        {
+          "key": "Intent",
+          "value": "Purchase"
+        },
+        {
+          "key": "Object",
+          "value": "Property"
+        },
+        {
+          "key": "Property Type",
+          "value": "Real Estate"
+        },
+        {
+          "key": "Value",
+          "value": "Financial"
+        },
+        {
+          "key": "Amount",
+          "value": "Unknown"
+        },
+        {
+          "key": "Context",
+          "value": "Business"
+        },
+        {
+          "key": "Topic",
+          "value": "Finance"
+        }
+      ]
+    },
+    {
+      "id": "deui1d7",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "American Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "USA"
+        },
+        {
+          "key": "Emotion",
+          "value": "Thankful"
+        },
+        {
+          "key": "Response",
+          "value": "Happy"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Word",
+          "value": "que"
+        },
+        {
+          "key": "Part of speech",
+          "value": "Pronoun"
+        },
+        {
+          "key": "Function",
+          "value": "Subject"
+        },
+        {
+          "key": "Sentence",
+          "value": "I was referring"
+        },
+        {
+          "key": "Context",
+          "value": "Discussing temperature"
+        }
+      ]
+    },
+    {
+      "id": "dexgtpo",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Greeting",
+          "value": "Muchisimas gracias"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Salutation",
+          "value": "valoro mucho"
+        },
+        {
+          "key": "Emotion",
+          "value": "grateful"
+        },
+        {
+          "key": "Salutation Formality",
+          "value": "informal"
+        },
+        {
+          "key": "Word Choice",
+          "value": "colloquial"
+        },
+        {
+          "key": "Punctuation",
+          "value": "exclamation mark"
+        },
+        {
+          "key": "Sentence Structure",
+          "value": "simple"
+        },
+        {
+          "key": "Word Form",
+          "value": "verb in present tense"
+        },
+        {
+          "key": "Tone",
+          "value": "friendly"
+        }
+      ]
+    },
+    {
+      "id": "dexh4nn",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Region",
+          "value": "Sur"
+        },
+        {
+          "key": "Question",
+          "value": "Where to go?"
+        },
+        {
+          "key": "Options",
+          "value": "Andalucia, Valencia, Malaga, Alicante, Benidorm, Valencia"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish with potential influence from Arabic and other languages"
+        },
+        {
+          "key": "Tone",
+          "value": "Grateful and curious"
+        },
+        {
+          "key": "Style",
+          "value": "Casual and direct"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "List of options"
+        },
+        {
+          "key": "Purpose",
+          "value": "Seeking advice on travel destination"
+        }
+      ]
+    },
+    {
+      "id": "dexihzi",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Destination",
+          "value": "Malaga, Alicante, Benidorm, or Valencia"
+        },
+        {
+          "key": "Question",
+          "value": "Which one do you think is the best to start with?"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Region",
+          "value": "Southern Spain"
+        },
+        {
+          "key": "Weather",
+          "value": "Warm and sunny"
+        },
+        {
+          "key": "Attractions",
+          "value": "Beaches, historical sites, and theme parks"
+        },
+        {
+          "key": "Season",
+          "value": "Good year-round"
+        },
+        {
+          "key": "Cost",
+          "value": "Moderate to high"
+        },
+        {
+          "key": "Distance",
+          "value": "Within a 2-hour drive from Madrid"
+        },
+        {
+          "key": "Transport",
+          "value": "Car, train, or plane"
+        }
+      ]
+    },
+    {
+      "id": "dexlo1o",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Catalan"
+        },
+        {
+          "key": "Greeting",
+          "value": "Que bueno"
+        },
+        {
+          "key": "Verb",
+          "value": "buscar"
+        },
+        {
+          "key": "Preposition",
+          "value": "por alli"
+        },
+        {
+          "key": "Adverb",
+          "value": "entonces"
+        },
+        {
+          "key": "Adverb",
+          "value": "mucho"
+        },
+        {
+          "key": "Adverb",
+          "value": "gracias"
+        },
+        {
+          "key": "Verb",
+          "value": "tener"
+        },
+        {
+          "key": "Verb",
+          "value": "ser"
+        },
+        {
+          "key": "Adjective",
+          "value": "bueno"
+        }
+      ]
+    },
+    {
+      "id": "dexlsi7",
+      "convo_id": "5z127v",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "English"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Greeting",
+          "value": "Grateful"
+        },
+        {
+          "key": "Response",
+          "value": "Helpful"
+        },
+        {
+          "key": "Question",
+          "value": "None"
+        },
+        {
+          "key": "Topic",
+          "value": "Job Search"
+        },
+        {
+          "key": "Request",
+          "value": "Information"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        },
+        {
+          "key": "Response Time",
+          "value": "Instant"
+        }
+      ]
+    }
+  ],
+  "viciado_em_FM": [
+    {
+      "id": "5zjr9q",
+      "convo_id": "5zjr9q",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Brazilian Portuguese"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Greeting",
+          "value": "Buenos días"
+        },
+        {
+          "key": "Apology",
+          "value": "Lo siento por mi mal español"
+        },
+        {
+          "key": "Request",
+          "value": "Ayuda con un proyecto"
+        },
+        {
+          "key": "Relationship",
+          "value": "5 años de noviazgo"
+        },
+        {
+          "key": "Surprise",
+          "value": "Sorpresa para mi novia"
+        },
+        {
+          "key": "Global Participation",
+          "value": "Personas de todo el mundo"
+        },
+        {
+          "key": "Idea",
+          "value": "Foto simple con nota"
+        },
+        {
+          "key": "Note Content",
+          "value": "Mira, Elisa! Paulo no olvidó el día 28."
+        }
+      ]
+    }
+  ],
+  "paniniconqueso": [
+    {
+      "id": "6002u8",
+      "convo_id": "6002u8",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some regional influences"
+        },
+        {
+          "key": "Location",
+          "value": "Madrid, Andalucia"
+        },
+        {
+          "key": "Timeframe",
+          "value": "Two weeks plus"
+        },
+        {
+          "key": "Cities",
+          "value": "Cordoba, Granada, Cadiz, Malaga"
+        },
+        {
+          "key": "Preference",
+          "value": "Multiple cities or in-depth exploration of one city"
+        },
+        {
+          "key": "Interest",
+          "value": "Coastal areas, cultural exploration"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, with some regional variations"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, conversational"
+        },
+        {
+          "key": "Tone",
+          "value": "Excited, open-minded"
+        },
+        {
+          "key": "Question",
+          "value": "Seeking advice on exploring multiple cities or focusing on one"
+        }
+      ]
+    },
+    {
+      "id": "6161uq",
+      "convo_id": "6161uq",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, with some regional variations"
+        },
+        {
+          "key": "Location",
+          "value": "Granada, Andalucia"
+        },
+        {
+          "key": "Weather",
+          "value": "Cooler than expected, despite sunny days"
+        },
+        {
+          "key": "Experience",
+          "value": "Positive, friendly locals"
+        },
+        {
+          "key": "Police Interaction",
+          "value": "Negative, potential bias towards South Americans"
+        },
+        {
+          "key": "Food",
+          "value": "Enjoyed seafood and tapas"
+        },
+        {
+          "key": "Destination",
+          "value": "Plan to visit Chana"
+        },
+        {
+          "key": "Traveler's Purpose",
+          "value": "Food trip"
+        },
+        {
+          "key": "Travel Companion",
+          "value": "Argentine friend"
+        },
+        {
+          "key": "Time of Visit",
+          "value": "Not specified"
+        },
+        {
+          "key": "Region",
+          "value": "Andalucía"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Andalucian"
+        },
+        {
+          "key": "Transport",
+          "value": "Public transport"
+        },
+        {
+          "key": "Food",
+          "value": "Picasso Museum"
+        },
+        {
+          "key": "Festival",
+          "value": "Spanish Film Festival"
+        },
+        {
+          "key": "Beach",
+          "value": "Cádiz"
+        },
+        {
+          "key": "Question",
+          "value": "Transport and food options"
+        },
+        {
+          "key": "Holiday",
+          "value": "Vacation"
+        },
+        {
+          "key": "Response",
+          "value": "Helpful guidance"
+        }
+      ]
+    },
+    {
+      "id": "4wfszs",
+      "convo_id": "4wfszs",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Llanito"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, English"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, Conversational"
+        },
+        {
+          "key": "Tone",
+          "value": "Excited, Enthusiastic"
+        },
+        {
+          "key": "Context",
+          "value": "Interview, Television"
+        },
+        {
+          "key": "Problem",
+          "value": "Surviving the Llanito dialect"
+        },
+        {
+          "key": "Fear",
+          "value": "Assimilation"
+        },
+        {
+          "key": "Fear",
+          "value": "Andaluz Spanish or English dominance"
+        },
+        {
+          "key": "Fear",
+          "value": "English becoming more powerful"
+        },
+        {
+          "key": "Solution",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "id": "4wscp3",
+      "convo_id": "4wscp3",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Reflective"
+        },
+        {
+          "key": "Topic",
+          "value": "History"
+        },
+        {
+          "key": "Subtopic",
+          "value": "Spanish Civil War"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Word Count",
+          "value": "10"
+        },
+        {
+          "key": "Sentence Count",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "id": "4n4td0",
+      "convo_id": "4n4td0",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Topic",
+          "value": "ETA attacks and killings"
+        },
+        {
+          "key": "Personal Interest",
+          "value": "Foreign reader's curiosity"
+        },
+        {
+          "key": "Book Title",
+          "value": "Vidas Rotas"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Impressive"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Intrigued"
+        },
+        {
+          "key": "Question",
+          "value": "How is ETA perceived?"
+        },
+        {
+          "key": "Request",
+          "value": "Recommendations for similar books"
+        }
+      ]
+    },
+    {
+      "id": "4nt280",
+      "convo_id": "4nt280",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Country",
+          "value": "Dominican Republic"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Political Orientation",
+          "value": "Right-wing"
+        },
+        {
+          "key": "Social Media Platform",
+          "value": "Facebook"
+        },
+        {
+          "key": "Interests",
+          "value": "Politics, Social Issues"
+        },
+        {
+          "key": "Political Views",
+          "value": "Anti-left, Anti-refugee"
+        },
+        {
+          "key": "Content Type",
+          "value": "Text"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Errors",
+          "value": "Some grammatical and spelling errors"
+        }
+      ]
+    },
+    {
+      "id": "4pm649",
+      "convo_id": "4pm649",
+      "features": [
+        {
+          "key": "Location",
+          "value": "Madrid"
+        },
+        {
+          "key": "Course Type",
+          "value": "In-person"
+        },
+        {
+          "key": "Duration",
+          "value": "4 weeks"
+        },
+        {
+          "key": "Format",
+          "value": "Traditional classroom setting"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Price Range",
+          "value": "Unknown, please inquire"
+        },
+        {
+          "key": "Location Preference",
+          "value": "Nearby or within a reasonable distance"
+        },
+        {
+          "key": "Mover to Another Province",
+          "value": "Consider if necessary"
+        },
+        {
+          "key": "Topic",
+          "value": "TEFL"
+        },
+        {
+          "key": "Style",
+          "value": "Not online"
+        }
+      ]
+    },
+    {
+      "id": "6n83r7",
+      "convo_id": "6n83r7",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish, Basque"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish, Basque"
+        },
+        {
+          "key": "Style",
+          "value": "Casual, enthusiastic"
+        },
+        {
+          "key": "Tone",
+          "value": "Excited, curious"
+        },
+        {
+          "key": "Topic",
+          "value": "Lifestyle, food, nature, sports"
+        },
+        {
+          "key": "Question",
+          "value": "Yes"
+        },
+        {
+          "key": "Request",
+          "value": "Information, opinion"
+        },
+        {
+          "key": "Location",
+          "value": "Northern Spain, Euskadi"
+        },
+        {
+          "key": "Activity",
+          "value": "Hiking, climbing"
+        },
+        {
+          "key": "Interest",
+          "value": "Nature, food"
+        }
+      ]
+    },
+    {
+      "id": "6pt9ii",
+      "convo_id": "6pt9ii",
+      "features": [
+        {
+          "key": "Dialectos",
+          "value": "Español, Catalan, Galego"
+        },
+        {
+          "key": "Idiomas",
+          "value": "Español, Inglés, Francés"
+        },
+        {
+          "key": "Nivel",
+          "value": "Avanzado"
+        },
+        {
+          "key": "Experiencia",
+          "value": "Proficiente"
+        },
+        {
+          "key": "Habilidades",
+          "value": "Conversacional, Lectura, Escritura"
+        },
+        {
+          "key": "Intereses",
+          "value": "Literatura, Cultura, Viajes"
+        },
+        {
+          "key": "Ocio",
+          "value": "Cocina, Fotografía"
+        },
+        {
+          "key": "Objetivos",
+          "value": "Aprender continuamente, Ampliar horizontes"
+        },
+        {
+          "key": "Retos",
+          "value": "Tiempo, Motivación"
+        }
+      ]
+    },
+    {
+      "id": "77j51i",
+      "convo_id": "77j51i",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Basque"
+        },
+        {
+          "key": "Impression",
+          "value": "Vascos are more left-leaning than other Spaniards"
+        },
+        {
+          "key": "Reason",
+          "value": "Unknown"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "Region",
+          "value": "Basque Country"
+        },
+        {
+          "key": "Language",
+          "value": "Basque, Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal, Personal"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        },
+        {
+          "key": "Topic",
+          "value": "Politics"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        }
+      ]
+    },
+    {
+      "id": "6c7lyz",
+      "convo_id": "6c7lyz",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Topic",
+          "value": "Immigration"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Negative"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Duration",
+          "value": "Long-term"
+        },
+        {
+          "key": "Experience",
+          "value": "Personal"
+        },
+        {
+          "key": "Perspective",
+          "value": "First-person"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration"
+        },
+        {
+          "key": "Word Count",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "id": "5qh3l4",
+      "convo_id": "5qh3l4",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Tangiers, Morocco"
+        },
+        {
+          "key": "Travel",
+          "value": "After work conference"
+        },
+        {
+          "key": "Days Off",
+          "value": "2 days"
+        },
+        {
+          "key": "Potential Destinations",
+          "value": "Tarifa, Cadiz, Malaga"
+        },
+        {
+          "key": "Plan",
+          "value": "Save for later"
+        },
+        {
+          "key": "Reason",
+          "value": "Limited time"
+        },
+        {
+          "key": "Desire",
+          "value": "Wants to explore"
+        },
+        {
+          "key": "Preference",
+          "value": "More time required"
+        },
+        {
+          "key": "Conclusion",
+          "value": "Merit full attention"
+        }
+      ]
+    },
+    {
+      "id": "64er7k",
+      "convo_id": "64er7k",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Ceuta, Melilla, Spain"
+        },
+        {
+          "key": "Brand",
+          "value": "Vexia"
+        },
+        {
+          "key": "Product",
+          "value": "Laptop"
+        },
+        {
+          "key": "Issue",
+          "value": "Keyboard keys not working"
+        },
+        {
+          "key": "Solution",
+          "value": "Return to store for repair/replacement"
+        },
+        {
+          "key": "Garanty",
+          "value": "Yes, but with potential risk of voiding warranty if self-repair attempted"
+        },
+        {
+          "key": "Emotion",
+          "value": "Frustration"
+        },
+        {
+          "key": "Word Frequency",
+          "value": "a, de, que"
+        },
+        {
+          "key": "Sentiment",
+          "value": "negative"
+        }
+      ]
+    },
+    {
+      "id": "3i358n",
+      "convo_id": "3i358n",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Topic",
+          "value": "Education"
+        },
+        {
+          "key": "Country",
+          "value": "Spain"
+        },
+        {
+          "key": "History",
+          "value": "Colonization"
+        },
+        {
+          "key": "Region",
+          "value": "Americas"
+        },
+        {
+          "key": "Figure",
+          "value": "Cortes"
+        },
+        {
+          "key": "Practice",
+          "value": "Encomiendas"
+        },
+        {
+          "key": "Indigenous",
+          "value": "Aztecs"
+        },
+        {
+          "key": "Indigenous",
+          "value": "Civilizations"
+        }
+      ]
+    },
+    {
+      "id": "5km08y",
+      "convo_id": "5km08y",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Guinea Ecuatorial, Cuba, Filipinas, Marruecos"
+        },
+        {
+          "key": "Topic",
+          "value": "Historia, colonialismo, imperios"
+        },
+        {
+          "key": "Interest",
+          "value": "Caída del Imperio Español"
+        },
+        {
+          "key": "Media",
+          "value": "Películas, documentales, series"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Conversacional"
+        },
+        {
+          "key": "Request",
+          "value": "Recomendaciones de contenido"
+        },
+        {
+          "key": "Format",
+          "value": "JSON"
+        },
+        {
+          "key": "Response",
+          "value": "Asistencia en la extracción de características específicas del usuario"
+        }
+      ]
+    },
+    {
+      "id": "cud2w9d",
+      "convo_id": "3i358n",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Australian English"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Reflective"
+        },
+        {
+          "key": "Topic",
+          "value": "Indigenous People's History"
+        },
+        {
+          "key": "Country",
+          "value": "Australia"
+        },
+        {
+          "key": "Event",
+          "value": "Arrival of Europeans"
+        },
+        {
+          "key": "Impact",
+          "value": "Segregation"
+        },
+        {
+          "key": "Date",
+          "value": "Day of Landing"
+        },
+        {
+          "key": "Alternative Name",
+          "value": "Day of Invasion"
+        }
+      ]
+    },
+    {
+      "id": "d0wiv22",
+      "convo_id": "4a0gqs",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Formal, Academic"
+        },
+        {
+          "key": "Tone",
+          "value": "Analytical"
+        },
+        {
+          "key": "Topic",
+          "value": "Islam, Sufism, Orthodoxy"
+        },
+        {
+          "key": "Length",
+          "value": "Long"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        },
+        {
+          "key": "Sentiment_Intensity",
+          "value": "Moderate"
+        },
+        {
+          "key": "Syntax",
+          "value": "Complex, Varied"
+        },
+        {
+          "key": "Vocabulary",
+          "value": "Advanced"
+        },
+        {
+          "key": "Word_Count",
+          "value": "22"
+        }
+      ]
+    },
+    {
+      "id": "d477h4b",
+      "convo_id": "4nt280",
+      "features": [
+        {
+          "key": "Greeting",
+          "value": "Muchisimas gracias"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Informal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Tone",
+          "value": "Grateful"
+        },
+        {
+          "key": "Emotion",
+          "value": "Positive"
+        },
+        {
+          "key": "Topic",
+          "value": "None"
+        },
+        {
+          "key": "Semantic",
+          "value": "N/A"
+        },
+        {
+          "key": "Dialect",
+          "value": "Spanish, Latin American"
+        },
+        {
+          "key": "Region",
+          "value": "Latin America"
+        }
+      ]
+    },
+    {
+      "id": "d4npbtw",
+      "convo_id": "4pl8y7",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Standard Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Tone",
+          "value": "Informal"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "Question"
+        },
+        {
+          "key": "Topic",
+          "value": "Not applicable"
+        },
+        {
+          "key": "Semantic",
+          "value": "N/A"
+        },
+        {
+          "key": "Topic Specific",
+          "value": "N/A"
+        },
+        {
+          "key": "Sentiment",
+          "value": "Neutral"
+        }
+      ]
+    },
+    {
+      "id": "d66z2cp",
+      "convo_id": "4wfszs",
+      "features": [
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Dialect",
+          "value": "Llanito"
+        },
+        {
+          "key": "Greeting",
+          "value": "Gracias"
+        },
+        {
+          "key": "Gratitude",
+          "value": "Agradezco tu ayuda"
+        },
+        {
+          "key": "Learning",
+          "value": "Aprender de los demás"
+        },
+        {
+          "key": "Bilinguism",
+          "value": "Convivencia de idiomas"
+        },
+        {
+          "key": "Preference",
+          "value": "Preferencia por el español"
+        },
+        {
+          "key": "Concerns",
+          "value": "Desaparición del llanito"
+        },
+        {
+          "key": "Example",
+          "value": "Menos uso del inglés"
+        },
+        {
+          "key": "Impact",
+          "value": "Beneficios del bilingüismo"
+        }
+      ]
+    }
+  ],
+  "followyourself": [
+    {
+      "id": "60dn2n",
+      "convo_id": "60dn2n",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Location",
+          "value": "Spain"
+        },
+        {
+          "key": "Travel",
+          "value": "Road trip"
+        },
+        {
+          "key": "Group size",
+          "value": "5 adults, 1 child"
+        },
+        {
+          "key": "Duration",
+          "value": "9 days"
+        },
+        {
+          "key": "Start",
+          "value": "Barcelona"
+        },
+        {
+          "key": "End",
+          "value": "Barcelona"
+        },
+        {
+          "key": "Route",
+          "value": "Barcelona, Valencia, Granada, Sevilla, Córdoba, Madrid, Zaragoza"
+        },
+        {
+          "key": "Transport",
+          "value": "Car rental"
+        },
+        {
+          "key": "Problem",
+          "value": "Insurance and bad rental car companies"
+        }
+      ]
+    },
+    {
+      "id": "df7s2py",
+      "convo_id": "60dn2n",
+      "features": [
+        {
+          "key": "Gracias",
+          "value": "acknowledgment"
+        },
+        {
+          "key": "sugerencia",
+          "value": "suggestion"
+        },
+        {
+          "key": "positivo",
+          "value": "positive"
+        },
+        {
+          "key": "amigable",
+          "value": "friendly"
+        },
+        {
+          "key": "breve",
+          "value": "short"
+        },
+        {
+          "key": "breve",
+          "value": "brief"
+        },
+        {
+          "key": "amable",
+          "value": "kind"
+        },
+        {
+          "key": "grata",
+          "value": "grateful"
+        },
+        {
+          "key": "respuesta",
+          "value": "response"
+        },
+        {
+          "key": "ayuda",
+          "value": "help"
+        }
+      ]
+    },
+    {
+      "id": "df7sd6l",
+      "convo_id": "60dn2n",
+      "features": [
+        {
+          "key": "Dialect",
+          "value": "Spanish"
+        },
+        {
+          "key": "Language",
+          "value": "Spanish"
+        },
+        {
+          "key": "Style",
+          "value": "Casual"
+        },
+        {
+          "key": "Emotion",
+          "value": "Gratitude"
+        },
+        {
+          "key": "Tone",
+          "value": "Positive"
+        },
+        {
+          "key": "Word Choice",
+          "value": "Informal"
+        },
+        {
+          "key": "Syntax",
+          "value": "Simple"
+        },
+        {
+          "key": "Length",
+          "value": "Short"
+        },
+        {
+          "key": "Format",
+          "value": "Sentence"
+        },
+        {
+          "key": "Number of Sentences",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
